@@ -1,0 +1,9 @@
+# Ignore env files
+.env
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore DB files
+*.db

@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "mysql": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mysql-mcp-server",
+        "mysql_mcp_server"
+      ]
+    }
+  }
+}
